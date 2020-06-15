@@ -1,11 +1,36 @@
 # web-tech-map
-A map of WEB related technologies, frameworks and libraries alternatives.
 
-## Building mobile apps with web technologies
+*DRAFT* 
+
+A map of Web related technologies, frameworks and libraries. To understand and contrast alternatives. 
+
+
+
+## Alternatives
+
+### Frameworks for building mobile apps with web technologies
 
 - Ionic
 - React Native
 - Expo
 - Flutter
 - Cordova
+
+### Programming languages for building frontends
+
+- Javascript
+- Typescript
+- ClojureScript
+- CoffeeScript
+
+### Languages to define styling
+
+- CSS
+- SASS
+- LessCSS
+
+### Tools for dependency management
+
+- Yarn
+- Npm
 
