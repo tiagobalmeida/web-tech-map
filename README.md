@@ -8,7 +8,7 @@ A map of Web related technologies, frameworks and libraries. To understand and c
 
 ## Alternatives
 
-### Frameworks for building mobile apps with web technologies
+### Frameworks for building cross platform mobile apps using web technologies
 
 - Ionic
 - React Native
